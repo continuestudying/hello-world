@@ -1,3 +1,5 @@
+<h1> Hi, This page is changed for testing tomcat on AWS EC2 </h1>
+
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
